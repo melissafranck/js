@@ -1,0 +1,28 @@
+{
+    "articles": [
+        {
+            "image": "https://images.unsplash.com/photo-1551690935-a9e6f0a7e788",
+            "title": "11 Physical and Psychological Benefits of Incense",
+            "description": "An article describing the benefits of incense",
+            "author": "David Sanchez",
+            "comments": "12",
+            "time": "6"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1501043658504-36d366f4b08a",
+            "title": "How To Meditate",
+            "description": "An article describing how to meditate",
+            "author": "Mindful Staff",
+            "comments": "12",
+            "time": "10"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1512907819289-143573530514",
+            "title": "The Importance of Water",
+            "description": "An article describing the importance of water",
+            "author": "Good Habits For Life",
+            "comments": "0",
+            "time": "2"
+        }
+    ]
+}
